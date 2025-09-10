@@ -78,8 +78,9 @@ Here's a detailed overview of the technologies and methodologies I specialize in
         <summary><strong>☁️ DevOps & Deployment</strong></summary>
         <br/>
         <p>
-          <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=git,docker,railway,vercel" /></a>
-           <a href="#"><img src="https://img.shields.io/badge/CI/CD-2094F3?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
+          <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=git,docker,vercel" /></a>
+          <a href="#"><img src="https://img.shields.io/badge/Railway-2094F3?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
+          <a href="#"><img src="https://img.shields.io/badge/CI/CD-2094F3?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
         </p>
       </details>
       <br/>
