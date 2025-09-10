@@ -5,7 +5,7 @@
   <h3 align="center">AI Researcher | Full-Stack Developer | Computer Science Student</h3>
   
   <p align="center">
-    I'm a passionate Computer Science student from Indonesia, focusing on the intersection of <strong>Artificial Intelligence</strong> and <strong>Full-Stack Development</strong>. <br/> I thrive on building intelligent, user-centric applications from concept to deployment, turning complex problems into elegant software solutions.
+    I'm a passionate Computer Science student from Indonesia, focusing on the intersection of <strong>Artificial Intelligence</strong> and <strong>Full-Stack Development</strong>. I thrive on building intelligent, user-centric applications from concept to deployment, turning complex problems into elegant software solutions.
   </p>
   
   <div align="center">
