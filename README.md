@@ -7,26 +7,26 @@
         <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
       </div>
       
-      <h1 align="left">Hi there, I'm Surya Hanjaya 👋</h1>
-      <h3 align="left">AI Researcher | Full-Stack Developer | Computer Science Student</h3>
-      
-      <p align="left">
-        I'm a passionate Computer Science student from Indonesia, transforming complex problems into elegant software solutions. My focus lies at the intersection of <strong>Artificial Intelligence</strong> and <strong>Full-Stack Development</strong>, where I thrive on building intelligent, user-centric applications from concept to deployment. I am constantly exploring new technologies and methodologies to push the boundaries of what's possible.
-      </p>
+  <h1 align="left">Hi there, I'm Surya Hanjaya 👋</h1>
+  <h3 align="left">AI Researcher | Full-Stack Developer | Computer Science Student</h3>
+  
+  <p align="left">
+    I'm a passionate Computer Science student from Indonesia, transforming complex problems into elegant software solutions. My focus lies at the intersection of <strong>Artificial Intelligence</strong> and <strong>Full-Stack Development</strong>, where I thrive on building intelligent, user-centric applications from concept to deployment. I am constantly exploring new technologies and methodologies to push the boundaries of what's possible.
+  </p>
 
-      <div align="left">
-        <a href="https://www.linkedin.com/in/surya-hanjaya/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        <a href="https://your-portfolio-website.com" target="_blank"> 
-          <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=React&logoColor=61DAFB" alt="Portfolio"/>
-        </a>
-      </div>
-    </td>
-    
-    <td valign="top" width="30%">
-      <img src="https://github-readme-stats.vercel.app/api?username=suryahanjaya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Surya's GitHub Stats"/>
-    </td>
+  <div align="left">
+    <a href="https://www.linkedin.com/in/surya-hanjaya/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://your-portfolio-website.com" target="_blank"> 
+      <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=React&logoColor=61DAFB" alt="Portfolio"/>
+    </a>
+  </div>
+</td>
+
+<td valign="top" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryahanjaya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Surya's GitHub Stats"/>
+</td>
   </tr>
 </table>
 
@@ -124,15 +124,12 @@ Here are some of the projects that showcase my skills and passion.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Advanced Bookshelf App</h3>
+      <h3>📚 Bookshelf App</h3>
       <blockquote>A feature-rich web app to manage your reading list. Built with vanilla JS, it features a theme-aware analytics chart, 3D tilt effects, and a glassmorphism UI.</blockquote>
       <code>JavaScript</code> <code>Chart.js</code> <code>CSS3</code> <code>Vercel</code>
       <br><br>
       <a href="https://bookshelf-suryahanjaya.vercel.app/" target="_blank"><strong>Live Demo →</strong></a>
       <a href="https://github.com/suryahanjaya/bookshelf" target="_blank"><strong>Source Code →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://bookshelf-suryahanjaya.vercel.app/" target="_blank"><img src="https://i.imgur.com/your-project-image1.png" alt="Bookshelf App Screenshot"/></a>
     </td>
   </tr>
   
