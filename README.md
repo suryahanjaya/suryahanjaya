@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/surya-hanjaya/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://your-portfolio-website.com" target="_blank"> 
+    <a href="https://drive.google.com/file/d/1sPLPMkuu6cJfSdSVdfRHHy1yT4tYEVfr/view?usp=drive_link" target="_blank"> 
       <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=React&logoColor=61DAFB" alt="Portfolio"/>
     </a>
   </div>
@@ -69,7 +69,8 @@ Here's a detailed overview of the technologies and methodologies I specialize in
         <summary><strong>🤖 AI/ML & Data Science</strong></summary>
         <br/>
         <p>
-          <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow,keras,pandas,numpy,scikitlearn" /></a>
+          <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn" /></a>
+          <a href="#"><img src="https://img.shields.io/badge/Keras-F7DF1E?style=for-the-badge&logo=analyzedot&logoColor=black" /></a>
         </p>
       </details>
       <br/>
@@ -168,9 +169,6 @@ Here are some of the projects that showcase my skills and passion.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryahanjaya&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
   </p>
   <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=suryahanjaya&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
-  </p>
 </details>
 
 ---
