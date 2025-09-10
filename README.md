@@ -1,101 +1,120 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  <h1 align="center">Hi there, I'm Surya Hanjaya 👋</h1>
-  <h3 align="center">AI Researcher | Full-Stack Developer | Computer Science Student</h3>
-  
-  <p align="center">
-    I'm a passionate Computer Science student from Indonesia, focusing on the intersection of <strong>Artificial Intelligence</strong> and <strong>Full-Stack Development</strong>. I thrive on building intelligent, user-centric applications from concept to deployment, turning complex problems into elegant software solutions.
-  </p>
-  
-  <div align="center">
-    <a href="https://www.linkedin.com/in/surya-hanjaya/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://your-portfolio-website.com" target="_blank"> 
-      <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=React&logoColor=61DAFB" alt="Portfolio"/>
-    </a>
-  </div>
-</div>
-
----
-
-### 🚀 My Featured Projects
-
-Here are some of the projects I'm proud of. You can find more on my repositories tab.
-
-| Project Name | Description | Technologies | Live Demo / Repo |
-| :--- | :--- | :--- | :--- |
-| 📚 **Advanced Bookshelf App** | A feature-rich web app to manage your reading list. Built with vanilla JS, featuring a theme-aware analytics chart, 3D tilt effects, and a glassmorphism UI. | `JavaScript`, `Chart.js`, `CSS3` | [**Live Demo**](https://bookshelf-suryahanjaya.vercel.app/) • [**Repo**](https://github.com/suryahanjaya/bookshelf) |
-| 🔗 **LinkedIn Landing Page** | A high-conversion, fully responsive landing page for a masterclass. Features dark mode, interactive components, and is optimized for performance. | `HTML5`, `CSS3`, `JavaScript` | [**Live Demo**](https://landingpagebelajarlinkedin-suryahanjaya.vercel.app/) • [**Repo**](https://github.com/suryahanjaya/BelajarLinkedIn-landingpage) |
-| 🤖 **AI Nutrition Advisor** | An AI-based project exploring machine learning models to provide nutritional recommendations from food image data. | `Python`, `Jupyter`, `Scikit-learn` | [**Repo**](https://github.com/suryahanjaya/AI-Nutrition) |
-| 🌐 **TalentClass API (Node.js)** | A RESTful API built with Node.js and Express as a final project, showcasing back-end skills including routing, middleware, and authentication. | `Node.js`, `Express`, `JWT` | [**Repo**](https://github.com/suryahanjaya/TalentClassBatch15) |
-
----
-
-### 🛠️ My Tech Stack & Toolkit
-
-Here are the languages, frameworks, and tools I use to bring ideas to life:
+<a name="header"></a>
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /><br><strong>JavaScript</strong>
+    <td valign="top" width="70%">
+      <h1 align="left">Hi there, I'm Surya Hanjaya 👋</h1>
+      <h3 align="left">AI Researcher | Full-Stack Developer | Computer Science Student</h3>
+      <p align="left">
+        I'm a passionate Computer Science student from Indonesia, transforming complex problems into elegant software solutions. My focus lies at the intersection of <strong>Artificial Intelligence</strong> and <strong>Full-Stack Development</strong>, where I thrive on building intelligent, user-centric applications from concept to deployment. I am constantly exploring new technologies and methodologies to push the boundaries of what's possible.
+      </p>
+
+      <div align="left">
+        <a href="https://www.linkedin.com/in/surya-hanjaya/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="https://your-portfolio-website.com" target="_blank"> 
+          <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=React&logoColor=61DAFB" alt="Portfolio"/>
+        </a>
+      </div>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br><strong>Python</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" /><br><strong>Laravel</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><strong>React</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br><strong>HTML5</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br><strong>CSS3</strong>
+    
+    <td valign="top" width="30%">
+      <img src="https://github-readme-stats.vercel.app/api?username=suryahanjaya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Surya's GitHub Stats"/>
     </td>
   </tr>
+</table>
+
+<a name="tech-stack"></a>
+
+### 🛠️ My Tech Stack
+
+A collection of technologies I use to build powerful and efficient applications.
+
+<p align="center">
+  <a href="#header"><img src="https://img.shields.io/badge/-Frontend-blueviolet?style=for-the-badge" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=javascript,react,html,css,tailwind" /></a>
+  <a href="#header"><img src="https://img.shields.io/badge/-Backend-blue?style=for-the-badge" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs,laravel,python,cpp" /></a>
+  <a href="#header"><img src="https://img.shields.io/badge/-Database-green?style=for-the-badge" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /></a>
+  <a href="#header"><img src="https://img.shields.io/badge/-AI/ML-orange?style=for-the-badge" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,jupyter" /></a>
+  <a href="#header"><img src="https://img.shields.io/badge/-Tools-red?style=for-the-badge" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=git,vscode,vercel,docker" /></a>
+</p>
+
+<a name="featured-projects"></a>
+
+### 🚀 Featured Projects
+
+Here are some of the projects that showcase my skills and passion.
+
+<table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br><strong>MySQL</strong>
+    <td width="50%" valign="top">
+      <h3>📚 Advanced Bookshelf App</h3>
+      <blockquote>A feature-rich web app to manage your reading list. Built with vanilla JS, it features a theme-aware analytics chart, 3D tilt effects, and a glassmorphism UI.</blockquote>
+      <code>JavaScript</code> <code>Chart.js</code> <code>CSS3</code> <code>Vercel</code>
+      <br><br>
+      <a href="https://bookshelf-suryahanjaya.vercel.app/" target="_blank"><strong>Live Demo →</strong></a>
+      <a href="https://github.com/suryahanjaya/bookshelf" target="_blank"><strong>Source Code →</strong></a>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br><strong>MongoDB</strong>
+    <td width="50%" valign="top">
+      <a href="https://bookshelf-suryahanjaya.vercel.app/" target="_blank"><img src="https://i.imgur.com/your-project-image1.png" alt="Bookshelf App Screenshot"/></a>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br><strong>TensorFlow</strong>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔗 LinkedIn Landing Page</h3>
+      <blockquote>A high-conversion, fully responsive landing page for a masterclass. Features dark mode, interactive components, and is optimized for performance and accessibility.</blockquote>
+      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Responsive Design</code>
+      <br><br>
+      <a href="https://landingpagebelajarlinkedin-suryahanjaya.vercel.app/" target="_blank"><strong>Live Demo →</strong></a>
+      <a href="https://github.com/suryahanjaya/BelajarLinkedIn-landingpage" target="_blank"><strong>Source Code →</strong></a>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><strong>Git</strong>
+    <td width="50%" valign="top">
+      <a href="https://landingpagebelajarlinkedin-suryahanjaya.vercel.app/" target="_blank"><img src="https://i.imgur.com/your-project-image2.png" alt="LinkedIn Landing Page Screenshot"/></a>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br><strong>Vercel</strong>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Nutrition Advisor</h3>
+      <blockquote>An AI-based project exploring machine learning models to provide nutritional recommendations from food image data, demonstrating skills in data processing and ML.</blockquote>
+      <code>Python</code> <code>Jupyter</code> <code>Scikit-learn</code> <code>TensorFlow</code>
+      <br><br>
+      <a href="https://github.com/suryahanjaya/AI-Nutrition" target="_blank"><strong>Source Code →</strong></a>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br><strong>C++</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br><strong>VS Code</strong>
+    <td width="50%" valign="top">
+      <a href="https://github.com/suryahanjaya/AI-Nutrition" target="_blank"><img src="https://i.imgur.com/your-project-image3.png" alt="AI Nutrition Project Screenshot"/></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 My GitHub Stats
-
-These stats provide a quick overview of my activity and most used languages on GitHub.
+### ⚡ Dynamic Content & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryahanjaya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Surya's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryahanjaya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=suryahanjaya&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
+<details>
+  <summary>📊 More GitHub Stats & Coding Activity</summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryahanjaya&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+  </p>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=suryahanjaya&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+  </p>
+</details>
+
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suryahanjaya&style=flat-square&color=blueviolet" alt="Profile Visitor Count"/>
+</p>
